@@ -1,4 +1,4 @@
-# climate-data-analysis
+# climate-data-analysis (1901 - 2000) - Station Abu
 
 Simple project analyzing historical climate data for Indian stations using basic MATLAB. Data: IMD release “climate_change_upto_2000_1.csv”.
 
@@ -22,6 +22,7 @@ climate_change_upto_2000_1.csv   —   Raw data
 Insert plot sample here (/output/abu_max_temp_plot.jpg, /outputs/abu_min_temp_plot.jpg)
 
 ## Observations
+* Years covered: 1901–2000 (Abu)
 * Hottest months: May–June (Abu)
 
 * Coolest month: January
