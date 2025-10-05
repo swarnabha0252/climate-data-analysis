@@ -1,12 +1,8 @@
 data = readtable('climate_change_upto_2000_1.csv');
 
-
 abuRows = strcmp(data.StationName, 'Abu');
-
 abuData = data(abuRows, :);
-
 months = {'January','February','March','April','May','June','July','August','September','October','November','December'};
-
 abuMinTemp = zeros(12, 1);
 
 for i = 1:12
