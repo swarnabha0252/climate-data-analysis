@@ -1,7 +1,7 @@
 # climate-data-analysis (1901 - 2000) - Station Abu
 
-Simple project analyzing historical climate data for Indian stations using basic MATLAB. Data: IMD release “climate_change_upto_2000_1.csv”.
-
+Simple project analyzing historical climate data for Indian stations using basic MATLAB. Data: IMD release “climate_change_upto_2000_1.csv” (1901-2000).
+* Source: https://www.data.gov.in/catalog/climatology-data-important-cities-0
 ## Files
 climate_change_upto_2000_1.csv   —   Raw data
 
